@@ -1,3 +1,3 @@
 # cnsv / conserve
 
-With `terraform` create a static website.
+Use Azure Static Web App to host (www.cvdg.eu)[https://www,cvdg.eu/].
