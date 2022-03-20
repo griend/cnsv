@@ -1,3 +1,4 @@
-output "url_web" {
-  value = "https://${azurerm_storage_account.cvdg_eu.primary_web_host}/"
+output "default_hostname" {
+  value = azurerm_static_site.site.default_host_name
+  
 }
