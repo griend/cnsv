@@ -1,5 +1,8 @@
 body {
-  background-color: lightblue;
+  background-color: white;
+  width: 35em;
+  margin: 0 auto;
+  font-family: Tahoma, Verdana, Arial, sans-serif;
 }
   
 h1 {
